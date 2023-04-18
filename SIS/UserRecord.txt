@@ -1,0 +1,5 @@
+123,s,p,student
+122,stu2,password1,student
+124,i2,p2,instructor
+101,instructor2,password1,instructor
+200,a,p,admin
